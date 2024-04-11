@@ -1,0 +1,1 @@
+printf("The length of the string = ",length);
